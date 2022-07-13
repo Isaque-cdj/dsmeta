@@ -92,6 +92,96 @@ function SalesCard() {
                                 </div>
                             </td>
                         </tr>
+                        <tr>
+                            <td className="show992">#341</td>
+                            <td className="show576">10/07/2022</td>
+                            <td>Anakin</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>R$ 55300.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <div className="dsmeta-red-btn">
+                                        <NotificationButton />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#341</td>
+                            <td className="show576">10/07/2022</td>
+                            <td>Anakin</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>R$ 55300.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <div className="dsmeta-red-btn">
+                                        <NotificationButton />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#341</td>
+                            <td className="show576">10/07/2022</td>
+                            <td>Anakin</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>R$ 55300.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <div className="dsmeta-red-btn">
+                                        <NotificationButton />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#341</td>
+                            <td className="show576">10/07/2022</td>
+                            <td>Anakin</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>R$ 55300.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <div className="dsmeta-red-btn">
+                                        <NotificationButton />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#341</td>
+                            <td className="show576">10/07/2022</td>
+                            <td>Anakin</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>R$ 55300.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <div className="dsmeta-red-btn">
+                                        <NotificationButton />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="show992">#341</td>
+                            <td className="show576">10/07/2022</td>
+                            <td>Anakin</td>
+                            <td className="show992">15</td>
+                            <td className="show992">11</td>
+                            <td>R$ 55300.00</td>
+                            <td>
+                                <div className="dsmeta-red-btn-container">
+                                    <div className="dsmeta-red-btn">
+                                        <NotificationButton />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
                     </tbody>
 
                 </table>
